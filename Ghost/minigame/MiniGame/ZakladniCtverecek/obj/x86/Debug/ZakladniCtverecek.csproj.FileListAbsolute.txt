@@ -1,0 +1,92 @@
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csprojAssemblyReference.cache
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csproj.CoreCompileInputs.cache
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\ZakladniCtverecek.exe
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\ZakladniCtverecek.pdb
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csproj.CopyComplete
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.exe
+C:\Users\senkyr\OneDrive\Source\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.pdb
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\ZakladniCtverecek.exe
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\ZakladniCtverecek.pdb
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csprojAssemblyReference.cache
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csproj.CoreCompileInputs.cache
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csproj.CopyComplete
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.exe
+C:\Users\senkyr\OneDrive\Source\vyuka\trida-2ep-sk2\prace\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.pdb
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\ZakladniCtverecek.exe
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\ZakladniCtverecek.pdb
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csprojAssemblyReference.cache
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csproj.CoreCompileInputs.cache
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csproj.CopyComplete
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.exe
+C:\Users\Ilchmann\Downloads\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.pdb
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\ZakladniCtverecek.exe
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\ZakladniCtverecek.pdb
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csprojAssemblyReference.cache
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csproj.CoreCompileInputs.cache
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.csproj.CopyComplete
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.exe
+C:\Users\Ilchmann\OneDrive - Střední průmyslová škola, Trutnov, Školní 101\minigame1\minigame\MiniGame\ZakladniCtverecek\obj\x86\Debug\ZakladniCtverecek.pdb
